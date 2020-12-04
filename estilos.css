@@ -1,0 +1,66 @@
+.navbar{
+    background-color:rgb(129, 54, 110);
+}
+
+.fondo{
+    background-color:rgb(248, 195, 248);
+}
+
+.tit{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.formulario{
+    background-color:rgb(129, 54, 110);
+    border-radius:12px;
+    padding:20px;
+    margin: 0 auto;
+    width:550px;
+}
+.Text{
+    border:0;
+    outline:none;
+}
+.borde:focus{
+    border-color: black;
+}
+.botonRadio{
+    border-radius:3px;
+    outline:none;
+    border:0;
+}
+.borde{
+    border: solid 0px #ffffff;
+    border-radius:3px;
+    width:510px;
+    height: 40px;
+}
+.borde2{
+    border: solid 1px #ffffff;
+    border-radius:3px;
+    width:240px;
+    height: 40px;
+}
+
+  .ph-center::-webkit-input-placeholder {
+    text-align: left;
+    line-height: 70px;/* Centrado vertical */
+  }
+  .borde3{
+    border: solid 1px #ffffff;
+    border-radius:3px;
+    width:510px;
+    height: 80px;
+  }
+
+
+h1{
+    text-align: center;
+    font-family: monospace;
+}
+   
+.boton1{
+    color: rgb(243, 102, 208);
+}
